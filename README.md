@@ -52,8 +52,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanchai2004&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true&height=300" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
