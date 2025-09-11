@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ###
 
@@ -57,13 +56,19 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:chanchailertsri01@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://github.com/Chanchai2004" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
+</div>
+
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;The+best+error+message+is+the+one+that+never+shows+up.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Programming+isn't+about+what+you+know%3B+it's+about+what+you+can+figure+out." alt="Typing SVG" />
+  </h3>
 </div>
 
 ###
