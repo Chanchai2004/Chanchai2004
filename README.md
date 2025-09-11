@@ -14,29 +14,45 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" alt="react logo" />
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" alt="c logo" />
   <img width="12" />
-  <img src="https://vitejs.dev/logo.svg" height="35" alt="vite logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35" alt="java logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="35" alt="go logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
+  <!-- Frameworks & Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" alt="react logo" />
+  <img width="12" />
+  <img src="https://vitejs.dev/logo.svg" height="35" alt="vite logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="35" alt="docker logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="35" alt="gcp logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="35" alt="mui logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" alt="tailwind logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo" />
+  <img width="12" />
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
+  <img width="12" />
+  <!-- Tools & Platforms -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="35" alt="docker logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="35" alt="gcp logo" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35" alt="git logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="35" alt="ant logo" />
 </div>
 
 ###
@@ -54,8 +70,13 @@
 
 <br clear="both">
 
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ###
