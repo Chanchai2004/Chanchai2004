@@ -70,10 +70,7 @@
 
 <br clear="both">
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chanchai2004/output/snake.svg" alt="github contribution grid snake animation" />
-</div>
+
 
 ###
 
