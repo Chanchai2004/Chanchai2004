@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;The+best+error+message+is+the+one+that+never+shows+up.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Programming+isn't+about+what+you+know%3B+it's+about+what+you+can+figure+out." alt="Typing SVG" />
 </div>
 
-## 📈 Contributions · 2024 – now
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/3d-now/profile-night-rainbow.svg" width="100%" alt="contributions this year" />
-  <img src="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/3d-2025/profile-night-rainbow.svg" width="100%" alt="contributions 2025" />
-  <img src="https://raw.githubusercontent.com/Chanchai2004/Chanchai2004/output/3d-2024/profile-night-rainbow.svg" width="100%" alt="contributions 2024" />
-</div>
-
 ## 🙋 About me
 
 - 💼 Full Stack Developer — React / Node / Go / C# .NET 8
